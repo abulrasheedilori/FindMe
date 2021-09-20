@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveTrackingApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="locate">Locate Gbohunmi</string>
+</resources>
